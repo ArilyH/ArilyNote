@@ -26,15 +26,12 @@
             "id": "3d83db9ff39ca18a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "LLM/Judge/KindJudge.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Pasted image 20241220145501.png"
               },
-              "icon": "lucide-file",
-              "title": "KindJudge"
+              "icon": "lucide-image",
+              "title": "Pasted image 20241220145501"
             }
           }
         ],
@@ -156,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/KindJudge.md"
+                "file": "Pasted image 20241220145501.png"
               },
               "icon": "lucide-list",
-              "title": "KindJudge 的大纲"
+              "title": "Pasted image 20241220145501 的大纲"
             }
           }
         ],
@@ -176,14 +173,15 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "3d83db9ff39ca18a",
   "lastOpenFiles": [
+    "LLM/Judge/KindJudge.md",
     "审稿意见.md",
     "Pasted image 20241220145501.png",
-    "LLM/Judge/KindJudge.md",
     "LLM/Judge/Judge Bench.md",
     "LLM/Judge/RLHF.md",
     "Markdown简明语法.md",
