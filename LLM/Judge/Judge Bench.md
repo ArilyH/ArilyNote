@@ -89,7 +89,7 @@ Mark：源数据集本身必须具有显著难度
 **Marks**
 1. 考虑位置偏差，需要将回答正反各一次输入LLMJudge进行评判，以检查Judge在Bench上位置偏差的表现。具体来说：两次评估中允许出现至多一次平局，不允许出现两种不同的偏好性评价。
 
-**Objects**
+**How to**
 1.  PromptJudge
 	Vanilla：直接对LLM给出诸如“你现在是一位回答质量评估者，接下来，我会给你一系列输入，请决定哪个输入你认为更好”的提示。
 	Arena-Hard：在以上的基础上加上CoT策略。“在回答下面的问题之前，请首先生成一个详细的回答，作为参考。然后，再评估以下两种候选答案的质量。”
@@ -102,16 +102,16 @@ Mark：源数据集本身必须具有显著难度
 	Auto-J
 	Skywork Critics
 
-1. MultiAgent：
+3. MultiAgent：
 	ChatEval
 
 **Metrics**
-1. 在不同类别问题上评估LLMJudge的准确性。
-2. 评估不同模型在JudgeBench上的表现。
-3. 对弱模型通过回馈模型训练，得到一个专门的验证器来评判更强的模型是可能的。
-4. 与其他数据集对比。
-5. 探索“Judge”&“Solve”的难度差。
-6. 探索偏差（见[[Judge Bench#^Bias|Bias]]）。
+4. 在不同类别问题上评估LLMJudge的准确性。
+5. 评估不同模型在JudgeBench上的表现。
+6. 对弱模型通过回馈模型训练，得到一个专门的验证器来评判更强的模型是可能的。
+7. 与其他数据集对比。
+8. 探索“Judge”&“Solve”的难度差。
+9. 探索偏差（见[[Judge Bench#^Bias|Bias]]）。
 
 **Ques**
 原文提到
