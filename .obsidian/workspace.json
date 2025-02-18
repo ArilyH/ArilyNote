@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "3fd0e06f0c11d798",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "53e326de681a4747",
             "type": "leaf",
             "state": {
@@ -55,7 +67,8 @@
               "title": "Judge Bench"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,13 +187,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown简明语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Markdown简明语法 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -201,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e165f9b7232ddd",
+  "active": "3fd0e06f0c11d798",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Markdown简明语法.md",
