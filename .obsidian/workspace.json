@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/Adversarial Attacks.md",
+                "file": "LLM/Judge/KindJudge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adversarial Attacks"
+              "title": "KindJudge"
+            }
+          },
+          {
+            "id": "51c20dee8e0a1d53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Judge/KindJudge-Extend.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "KindJudge-Extend"
             }
           },
           {
@@ -55,7 +79,8 @@
               "title": "Judge Bench"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/Adversarial Attacks.md",
+                "file": "LLM/Judge/KindJudge-Extend.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Adversarial Attacks 的大纲"
+              "title": "KindJudge-Extend 的大纲"
             }
           }
         ],
@@ -201,14 +226,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e165f9b7232ddd",
+  "active": "51c20dee8e0a1d53",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "LLM/Judge/KindJudge-Extend.md",
+    "LLM/Judge/KindJudge.md",
+    "LLM/Judge/Adversarial Attacks.md",
     "Markdown简明语法.md",
     "conflict-files-obsidian-git.md",
     "LLM/Judge/JPG/Pasted image 20250214024939.png",
-    "LLM/Judge/KindJudge.md",
     "LLM/Judge/Judge Bench.md",
-    "LLM/Judge/Adversarial Attacks.md",
     "LLM/Judge/JPG/Pasted image 20250214024649.png",
     "LLM/Judge/JPG/Pasted image 20250214024513.png",
     "LLM/Judge/JPG/Pasted image 20250214024333.png",
