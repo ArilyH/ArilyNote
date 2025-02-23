@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown简明语法.md",
+                "file": "LLM/Judge/Adversarial Attacks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,19 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Markdown简明语法"
-            }
-          },
-          {
-            "id": "3fd0e06f0c11d798",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "title": "Adversarial Attacks"
             }
           },
           {
@@ -67,8 +55,7 @@
               "title": "Judge Bench"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,12 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "LLM/Judge/Adversarial Attacks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Adversarial Attacks 的大纲"
             }
           }
         ],
@@ -213,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3fd0e06f0c11d798",
+  "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Markdown简明语法.md",
+    "conflict-files-obsidian-git.md",
     "LLM/Judge/JPG/Pasted image 20250214024939.png",
     "LLM/Judge/KindJudge.md",
     "LLM/Judge/Judge Bench.md",
