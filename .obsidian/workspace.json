@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/KindJudge-Extend.md",
+                "file": "LLM/Judge/KindJudge实现笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KindJudge-Extend"
+              "title": "KindJudge实现笔记"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/KindJudge-Extend.md",
+                "file": "LLM/Judge/KindJudge实现笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KindJudge-Extend 的大纲"
+              "title": "KindJudge实现笔记 的大纲"
             }
           }
         ],
@@ -228,8 +228,9 @@
   },
   "active": "51c20dee8e0a1d53",
   "lastOpenFiles": [
-    "未命名 1.md",
     "LLM/Judge/KindJudge-Extend.md",
+    "LLM/Judge/KindJudge实现笔记.md",
+    "未命名 1.md",
     "LLM/Judge/KindJudge.md",
     "LLM/Judge/Adversarial Attacks.md",
     "Markdown简明语法.md",
