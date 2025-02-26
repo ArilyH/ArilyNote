@@ -1,3 +1,4 @@
+Vanilla 模板修改
 # Here is what you should pay attetion to: Prompt:
 
 You are a helpful assistant in evaluating the quality of the outputs for a given instruction. Your goal is to select the best output for the given instruction.
