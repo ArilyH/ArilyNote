@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/Adversarial Attacks.md",
+                "file": "LLM/Judge/KindJudge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Adversarial Attacks"
+              "title": "KindJudge"
             }
           },
           {
@@ -137,7 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 237.5
+    "width": 242.5
   },
   "right": {
     "id": "a5dadfda69a4dfed",
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/Adversarial Attacks.md",
+                "file": "LLM/Judge/KindJudge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Adversarial Attacks 的大纲"
+              "title": "KindJudge 的大纲"
             }
           }
         ],
@@ -228,11 +228,11 @@
   },
   "active": "51c20dee8e0a1d53",
   "lastOpenFiles": [
+    "LLM/Judge/Adversarial Attacks.md",
     "LLM/Judge/KindJudge.md",
     "LLM/Judge/KindJudge-Extend.md",
     "LLM/Judge/KindJudge实现笔记.md",
     "未命名 1.md",
-    "LLM/Judge/Adversarial Attacks.md",
     "Markdown简明语法.md",
     "conflict-files-obsidian-git.md",
     "LLM/Judge/JPG/Pasted image 20250214024939.png",
