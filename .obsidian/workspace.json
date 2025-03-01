@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/KindJudge.md",
+                "file": "LLM/Judge/Adversarial Attacks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KindJudge"
+              "title": "Adversarial Attacks"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "Judge Bench"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -226,7 +225,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "51c20dee8e0a1d53",
+  "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
     "LLM/Judge/Adversarial Attacks.md",
     "LLM/Judge/KindJudge.md",
