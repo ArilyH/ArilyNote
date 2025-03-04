@@ -90,6 +90,28 @@ AlphaCode：核心创新在于推理阶段的生成-筛选策略：针对同一�
 基于源代码：
 在软件工程任务的大语言模型（LLM）训练中，**源代码**​作为最核心的数据类型，直接支撑模型对软件开发逻辑的深度理解，使其能够生成、分析和重构代码。
 例如通过大规模开源代码库（如GitHub）学习语法规则与控制流模式。
+
+
+- ​**缺陷代码**：
+    
+    java
+    
+    ```java
+    public static boolean isEquals(Object array1, Object array2) {  
+        return array1.equals(array2); // 未处理array1为null的情况  
+    }  
+    ```
+    
+- ​**触发错误**：当`array1`为`null`时调用`equals`会抛出空指针异常。
+- ​**修复补丁**：
+    
+    java
+    
+    ```java
+    public static boolean isEquals(Object array1, Object array2) {  
+        return Arrays.equals((Object[]) array1, (Object[]) array2); // 改用安全比较  
+    }  
+    ```
 **缺陷代码与补丁**​聚焦于程序修复任务，通过缺陷-修复对（如Defects4J数据集）训练模型识别错误模式并生成有效补丁。
 **易受攻击代码**​针对漏洞检测场景，利用含CVE标注的代码（如SARD数据集）增强模型对安全风险的敏感度；
 **图结构数据**​（如GUI界面依赖图）通过捕捉代码组件间的关系（如Android应用界面布局），支持模型处理需结构化表征的任务（如界面原型生成），凸显多模态数据在复杂软件工程问题中的潜力。这些数据类型的多样性共同推动了LLM在代码生成、缺陷定位、安全检测及系统设计等全链路任务中的适应性。
