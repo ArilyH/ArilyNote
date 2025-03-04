@@ -21,4 +21,7 @@ LLM，LM，PLM，预训练，NLP，ML，DL，AI，Transformer，BERT，CodeX，G
 # RQ 1
 ## RQ 1.1 目前的LLM4SE任务中使用的LLM
 ### Just Encoder
-仅利用模型编码器组件的神经网络架构。处理和编码输入，将其转换为隐藏feature，捕捉词语之间的关系和句子的整体上下文。如BERT。目前的LLM4SE任务中
+仅利用模型编码器组件的神经网络架构。处理和编码输入，将其转换为隐藏feature，捕捉词语之间的关系和句子的整体上下文。如BERT。目前的LLM4SE任务中有多个基于BERT的研究，如CodeBERT[92]：整合了一种标记预测方案，通过预测后续标记来理解代码，从而增强了其在代码补全和错误检测等任务中对编程语言的理解。
+GraphCodeBERT：GraphCodeBERT 引入了边类型预测，将代码元素之间的关系识别为图。GraphCoderBERT 能够利用代码结构，提高其在代码摘要和程序分析等任务中的有效性。
+RoBERTa[260]和 ALBERT[211]。
+
