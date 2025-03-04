@@ -32,5 +32,5 @@ GraphCodeBERT：将代码元素之间的关系识别为图（数据流图），�
 训练过程一般采用Span Corruption（会Mask连续一段，按顺序预测token）
 
 CodeT5：基于T5的结构，在三个任务（代码预测、标识符区分、标识符预测）预训练，并通过下游任务微调适应具体场景。
-
+AlphaCode：
 
