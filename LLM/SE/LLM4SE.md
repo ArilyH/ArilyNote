@@ -20,7 +20,7 @@ LLM，LM，PLM，预训练，NLP，ML，DL，AI，Transformer，BERT，CodeX，G
 
 # RQ 1
 ## RQ 1.1 目前的LLM4SE任务中使用的LLM
-### EncoderOnly
+### EncoderOnly（理解型任务）
 仅利用模型编码器组件的神经网络架构。处理和编码输入，将其转换为隐藏feature，捕捉词语之间的关系和句子的整体上下文。如BERT。在需要细微理解整个句子或代码片段的任务中可以使用编码器大模型。例如代码审查、错误报告理解和与代码实体相关的命名实体识别。
 
 目前的LLM4SE任务中有多个基于BERT的研究，
