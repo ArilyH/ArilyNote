@@ -21,4 +21,4 @@ LLM，LM，PLM，预训练，NLP，ML，DL，AI，Transformer，BERT，CodeX，G
 # RQ 1
 ## RQ 1.1 目前的LLM4SE任务中使用的LLM
 ### Just Encoder
-仅利用模型编码器组件的神经网络架构。处理和编码输入句子，将其转换为隐藏表示，捕捉词语之间的关系和句子的整体上下文。
+仅利用模型编码器组件的神经网络架构。处理和编码输入，将其转换为隐藏feature，捕捉词语之间的关系和句子的整体上下文。如BERT。目前的LLM4SE任务中
