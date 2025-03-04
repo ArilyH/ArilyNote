@@ -39,3 +39,7 @@ AlphaCode：核心创新在于推理阶段的生成-筛选策略：针对同一�
 典型工作如InstructGPT（RLHF&SFT）、CodeX&Copilot（代码&IDE数据微调）。
 
 ## Trend
+![[Pasted image 20250304165500.png]]
+2020年集中在仅编码器模型（BERT等）OnSE研究。
+2021年开始出现较多仅解码器模型forSE研究。
+2022年（GPT3）后LLM4SE方向
