@@ -191,10 +191,12 @@ LoRA 将低秩可训练矩阵注入 Transformer 架构的注意力层，以显�
 CoT变体-CoC
 ![[Pasted image 20250305200011.png]]
 *CodeChain*
+通过CoT提示生成模块化解决方案，提取并聚类子模块，然后在自我修订阶段重用或调整这些模块，以生成更高质量的代码。
+
+AutoCoT
 
 ### APE
 
-### CoC
 
 
 ### Auto CoT
