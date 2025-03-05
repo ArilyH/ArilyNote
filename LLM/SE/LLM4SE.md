@@ -176,10 +176,15 @@ LoRA 将低秩可训练矩阵注入 Transformer 架构的注意力层，以显�
 通过适配器调优在LLMs代码搜索和代码摘要任务中表现得非常好。
 ## Prompt Engineering
 ### Few-Shot
+
 ### Zero-Shot
 ### CoT
 ### APE
-### C
+### CoC
+### Auto CoT
+### MoT
+### SCoT
+
 ## Metrics
 
 ## Summary
