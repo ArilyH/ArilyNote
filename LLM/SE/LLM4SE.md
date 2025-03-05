@@ -136,6 +136,8 @@ AlphaCode：核心创新在于推理阶段的生成-筛选策略：针对同一�
 
 
 # RQ3 Evaluation & Optimization
+
+在LLM4SE研究中，常常需要为特定的SE下游任务调整模型。
 ## Fine Tuning
 ### 全微调
 BERT常使用全微调以适应下游 SE 任务
