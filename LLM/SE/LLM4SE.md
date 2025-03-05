@@ -138,7 +138,7 @@ AlphaCode：核心创新在于推理阶段的生成-筛选策略：针对同一�
 # RQ3 Evaluation & Optimization
 ## Fine Tuning
 ### 全微调
-BERT常使用全微调
+BERT常使用全微调以适应下游 SE 任务
 
 ## Prompt Engineering
 
