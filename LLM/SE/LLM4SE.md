@@ -220,8 +220,8 @@ Automatic Prompt Engineer (APE)​ 是一种自动化生成和选择提示（pro
 
 ## Metrics
 ![[Pasted image 20250306131158.png]]
-MAE常用于回归任务。
+MAE（预测值&真实值的绝对误差）常用于回归任务。
 对于分类任务，最常用的指标是精度、召回率和 F1 score。
-在生成任务中，BLEU 等指标及其变体 BLEU-4 和 BLEU-DC 、Pass@k是最常用的。
+在生成任务中，BLEU （n-grams）等指标及其变体 BLEU-4 (4-grams)和 BLEU-DC(考虑相关度的n-grams) 、Pass@k是最常用的。
 
 ## Summary
