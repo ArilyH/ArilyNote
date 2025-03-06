@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/KindJudge-Extend.md",
+                "file": "LLM/SE/LLM4SE.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KindJudge-Extend"
+              "title": "LLM4SE"
             }
           },
           {
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/KindJudge-Extend.md",
+                "file": "LLM/SE/LLM4SE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KindJudge-Extend 的大纲"
+              "title": "LLM4SE 的大纲"
             }
           }
         ],
@@ -251,6 +251,8 @@
   },
   "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
+    "LLM/未命名.md",
+    "LLM/Judge/KindJudge-Extend.md",
     "LLM/Judge/KindJudge实现笔记.md",
     "LLM/Judge/Judge Bench.md",
     "LLM/Judge/Adversarial Attacks.md",
@@ -268,10 +270,8 @@
     "Pasted image 20250305201802.png",
     "LLM/Judge/未命名.md",
     "LLM/Judge/RLHF.md",
-    "LLM/未命名.md",
     "LLM/SE",
     "未命名 2.md",
-    "LLM/Judge/KindJudge-Extend.md",
     "未命名 1.md",
     "Markdown简明语法.md",
     "conflict-files-obsidian-git.md",
