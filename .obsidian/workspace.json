@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "818ebb219ba8cfc2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "51c20dee8e0a1d53",
             "type": "leaf",
             "state": {
@@ -103,7 +115,8 @@
               "title": "KindJudge-Extend"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +235,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/SE/LLM4SE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LLM4SE 的大纲"
+              "title": "大纲"
             }
           }
         ],
@@ -249,7 +261,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e165f9b7232ddd",
+  "active": "818ebb219ba8cfc2",
   "lastOpenFiles": [
     "Pasted image 20250306165502.png",
     "Pasted image 20250306152708.png",
