@@ -219,5 +219,9 @@ SCoT FOR Code
 Automatic Prompt Engineer (APE)​ 是一种自动化生成和选择提示（prompts）的系统，灵感来源于**经典程序合成**和**人工提示工程方法**，旨在为特定任务自动生成有效的提示，从而简化提示工程的过程。
 
 ## Metrics
+![[Pasted image 20250306131158.png]]
+MAE常用于回归任务。
+对于分类任务，最常用的指标是精度、召回率和 F1 score。
+在生成任务中，BLEU 等指标及其变体 BLEU-4 和 BLEU-DC 、Pass@k是最常用的。
 
 ## Summary
