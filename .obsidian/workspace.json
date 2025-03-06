@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/Judge Bench.md",
+                "file": "LLM/Judge/KindJudge-Extend.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Judge Bench"
+              "title": "KindJudge-Extend"
             }
           },
           {
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/Judge Bench.md",
+                "file": "LLM/Judge/KindJudge-Extend.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Judge Bench 的大纲"
+              "title": "KindJudge-Extend 的大纲"
             }
           }
         ],
@@ -251,6 +251,8 @@
   },
   "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
+    "LLM/Judge/KindJudge实现笔记.md",
+    "LLM/Judge/Judge Bench.md",
     "LLM/Judge/Adversarial Attacks.md",
     "LLM/Judge/KindJudge.md",
     "LLM/SE/LLM4SE.md",
@@ -264,10 +266,8 @@
     "Pasted image 20250305202418.png",
     "Pasted image 20250305202414.png",
     "Pasted image 20250305201802.png",
-    "LLM/Judge/Judge Bench.md",
     "LLM/Judge/未命名.md",
     "LLM/Judge/RLHF.md",
-    "LLM/Judge/KindJudge实现笔记.md",
     "LLM/未命名.md",
     "LLM/SE",
     "未命名 2.md",
