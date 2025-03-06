@@ -218,11 +218,6 @@ SCoT FOR Code
 手工设计的离散提示（discrete prompts）可能不够灵活，难以充分挖掘 LLMs 的潜力。
 Automatic Prompt Engineer (APE)​ 是一种自动化生成和选择提示（prompts）的系统，灵感来源于**经典程序合成**和**人工提示工程方法**，旨在为特定任务自动生成有效的提示，从而简化提示工程的过程。
 
-
-### Auto CoT
-### MoT
-### SCoT
-
 ## Metrics
 
 ## Summary
