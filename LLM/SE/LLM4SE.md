@@ -213,6 +213,7 @@ SCoT FOR Code
 *Exp SCoT & CoT*
 **结构化链式思维提示（Structured Chain-of-Thought, SCoT）​**​ 是一种专门针对**代码生成任务**设计的提示技术。与传统的链式思维提示（CoT）不同，SCoT 强调利用源代码中的**丰富结构信息**，引导大语言模型（LLMs）从源代码的角度构建中间推理步骤，从而生成更高质量的代码。
 ### APE
+*Exp from PromptCS 通过训练一个提示代理（prompt agent），自动生成连续提示。*
 手工设计的离散提示（discrete prompts）可能不够灵活，难以充分挖掘 LLMs 的潜力。
 Automatic Prompt Engineer (APE)​ 是一种自动化生成和选择提示（prompts）的系统，灵感来源于**经典程序合成**和**人工提示工程方法**，旨在为特定任务自动生成有效的提示，从而简化提示工程的过程。
 
