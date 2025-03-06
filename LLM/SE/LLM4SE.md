@@ -222,6 +222,6 @@ Automatic Prompt Engineer (APE)​ 是一种自动化生成和选择提示（pro
 ![[Pasted image 20250306131158.png]]
 MAE（预测值&真实值的绝对误差）常用于回归任务。
 对于分类任务，最常用的指标是精度、召回率和 F1 score。
-在生成任务中，BLEU （n-grams）等指标及其变体 BLEU-4 (4-grams)和 BLEU-DC(考虑相关度的n-grams) 、Pass@k是最常用的。
-
+在生成任务中，用的比较多的是NLP里的传统指标。BLEU （n-grams）等指标及其变体 BLEU-4 (4-grams)和 BLEU-DC(考虑相关度的n-grams) 、Pass@k是最常用的。
+此外，ROUGE/ROUGE-L （计算参考文本&生成文本的n-grams重叠率）、METEOR [7， 9， 40 ， 102 ， 104 ， 313]、EM （精确匹配） [9 ， 102， 122 ， 298 ， 461 ， 473 ， 512 ， 555 ] 和 ES （编辑相似性） [256 ] 用于特定研究，以评估生成的代码或自然语言代码描述的质量和准确性。
 ## Summary
