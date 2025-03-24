@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Knowledge/SoLargeLLM.md",
+                "file": "LLM/Knowledge/What‘s LargeLLM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SoLargeLLM"
+              "title": "What‘s LargeLLM"
             }
           },
           {
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Knowledge/SoLargeLLM.md",
+                "file": "LLM/Knowledge/What‘s LargeLLM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SoLargeLLM 的大纲"
+              "title": "What‘s LargeLLM 的大纲"
             }
           }
         ],
@@ -252,7 +252,7 @@
   "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
     "Pasted image 20250303214851.png",
-    "LLM/Knowledge/SoLargeLLM.md",
+    "LLM/Knowledge/What‘s LargeLLM.md",
     "审稿意见.md",
     "LLM/未命名.md",
     "未命名.md",
