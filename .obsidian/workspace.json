@@ -11,12 +11,24 @@
             "id": "69e165f9b7232ddd",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250303214851.png"
+                "file": "LLM/Knowledge/SoLargeLLM.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250303214851"
+              "icon": "lucide-file",
+              "title": "SoLargeLLM"
             }
           },
           {
@@ -210,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20250303214851.png",
+                "file": "LLM/Knowledge/SoLargeLLM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20250303214851 的大纲"
+              "title": "SoLargeLLM 的大纲"
             }
           }
         ],
@@ -239,6 +251,8 @@
   },
   "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
+    "Pasted image 20250303214851.png",
+    "LLM/Knowledge/SoLargeLLM.md",
     "审稿意见.md",
     "LLM/未命名.md",
     "未命名.md",
