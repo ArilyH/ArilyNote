@@ -3,6 +3,7 @@ date: 2025-02-10
 tags:
   - LLM
   - Judge
+  - Adversarial
 ---
 ## 1. Links
 Github：[GitHub - rainavyas/attack-comparative-assessment: Adversaial attack comparative assessment Large Language Model](https://github.com/rainavyas/attack-comparative-assessment)
