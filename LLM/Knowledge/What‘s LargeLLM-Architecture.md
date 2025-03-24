@@ -1,4 +1,4 @@
-#LLM #Start #DataWhale #NLP #BPE #Uni
+#LLM #Start #DataWhale #NLP #BPE #Unigram
 # BPE-字对编码
 BPE 的核心假设是：​**通过合并高频字符对，可以逐步构建出有意义的子词单元**。这种方法能够有效平衡词汇量和未登录词（OOV）问题。
 1. ​**初始化词表**：
