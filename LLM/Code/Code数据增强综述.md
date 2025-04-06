@@ -8,3 +8,5 @@ Github：[GitHub - terryyz/DataAug4Code: Source Code Data Augmentation for Deep 
 
 为了实现对给定源代码的复杂处理，一种常见的方法是使用解析器从代码中构建一个具体的语法树，以树形形式表示程序语法。具体的语法树将进一步转换为抽象语法树（AST），以简化表示但保持关键信息，如标识符、if-else 语句和循环条件。
 解析信息被用作基于规则的 DA 方法的基础，用于标识符替换和语句重写。
+
+## . Intro
