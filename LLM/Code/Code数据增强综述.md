@@ -10,3 +10,4 @@ Github：[GitHub - terryyz/DataAug4Code: Source Code Data Augmentation for Deep 
 解析信息被用作基于规则的 DA 方法的基础，用于标识符替换和语句重写。
 
 ## 3. Rule-Based DA
+许多数据流方法使用预定的规则来转换程序，而不破坏语法规则和语义。具体来说，这些规则主要隐式地利用抽象语法树（AST）来转换代码片段。转换操作可能包括替换变量等操作。
