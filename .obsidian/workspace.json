@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Code/C.md",
+                "file": "LLM/Code/Code数据增强.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C"
+              "title": "Code数据增强"
             }
           },
           {
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Code/C.md",
+                "file": "LLM/Code/Code数据增强.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C 的大纲"
+              "title": "Code数据增强 的大纲"
             }
           }
         ],
@@ -277,7 +277,7 @@
   "active": "33402674366fcd5d",
   "lastOpenFiles": [
     "未命名 3.md",
-    "LLM/Code/C.md",
+    "LLM/Code/Code数据增强.md",
     "LLM/未命名.md",
     "LLM/Code",
     "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
