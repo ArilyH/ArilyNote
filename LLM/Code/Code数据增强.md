@@ -1,6 +1,7 @@
 #Code #DataAugentation
 ## 1. Links
 Paper：[[2302.03499] Exploring Data Augmentation for Code Generation Tasks](https://arxiv.org/abs/2302.03499)
+^Explo
 
 ## 2. BackGrounds
 ### **Back-Translation**
@@ -14,4 +15,4 @@ Paper：[[2302.03499] Exploring Data Augmentation for Code Generation Tasks](htt
 3. ​**训练正向模型（C#→Java）​**
     - 用**原始数据 + 伪数据**训练最终的 C#→Java 模型 f。
 
-假设你试图训练一个模型去做**代码摘要**，那你则需要大量的单语注释，这是不太可能的。
+假设你试图训练一个模型去做**代码摘要**，那你则需要大量的单语注释，这是不太可能的。^Ex
