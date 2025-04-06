@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Code/Code数据增强.md",
+                "file": "LLM/Judge/Judge Bench.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Code数据增强"
+              "title": "Judge Bench"
             }
           }
         ],
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Code/Code数据增强.md",
+                "file": "LLM/Judge/Judge Bench.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Code数据增强 的大纲"
+              "title": "Judge Bench 的大纲"
             }
           }
         ],
@@ -276,8 +276,8 @@
   },
   "active": "8e7b008e6ebc59a9",
   "lastOpenFiles": [
-    "LLM/Judge/Judge Bench.md",
     "LLM/Code/Code数据增强.md",
+    "LLM/Judge/Judge Bench.md",
     "LLM/Judge/KindJudge-Extend.md",
     "LLM/Judge/Adversarial Attacks.md",
     "LLM/SE/LLM4SE Survey.md",
