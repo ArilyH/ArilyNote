@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
+                "file": "LLM/未命名.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What‘s LargeLLM-Tokenization"
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "33402674366fcd5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LLM/Code/C.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C"
             }
           },
           {
@@ -103,7 +127,8 @@
               "title": "KindJudge-Extend"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
+                "file": "LLM/Code/C.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "What‘s LargeLLM-Tokenization 的大纲"
+              "title": "C 的大纲"
             }
           }
         ],
@@ -249,12 +274,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e165f9b7232ddd",
+  "active": "33402674366fcd5d",
   "lastOpenFiles": [
-    "Pasted image 20250303214851.png",
-    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
-    "审稿意见.md",
+    "未命名 3.md",
+    "LLM/Code/C.md",
     "LLM/未命名.md",
+    "LLM/Code",
+    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
+    "Pasted image 20250303214851.png",
+    "审稿意见.md",
     "未命名.md",
     "未命名 1.md",
     "未命名 2.md",
@@ -274,7 +302,6 @@
     "Pasted image 20250306131158.png",
     "Pasted image 20250306130539.png",
     "Pasted image 20250305202530.png",
-    "Pasted image 20250305202516.png",
     "LLM/Judge/未命名.md",
     "LLM/Judge/RLHF.md",
     "LLM/SE",
