@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/KindJudge.md",
+                "file": "LLM/Judge/KindJudge-Code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KindJudge"
+              "title": "KindJudge-Code"
             }
           },
           {
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/KindJudge.md",
+                "file": "LLM/Judge/KindJudge-Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KindJudge 的大纲"
+              "title": "KindJudge-Code 的大纲"
             }
           }
         ],
@@ -251,8 +251,10 @@
   },
   "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
-    "LLM/Judge/KindJudge实现笔记.md",
+    "LLM/Judge/KindJudge.md",
     "LLM/Judge/KindJudge-Extend.md",
+    "LLM/Judge/KindJudge-Code.md",
+    "LLM/Judge/KindJudge实现笔记.md",
     "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
     "未命名 3.md",
     "LLM/未命名.md",
@@ -265,7 +267,6 @@
     "未命名 1.md",
     "未命名 2.md",
     "LLM/Judge/Adversarial Attacks.md",
-    "LLM/Judge/KindJudge.md",
     "LLM/Judge/Judge Bench.md",
     "LLM/SE/LLM4SE Survey.md",
     "LLM/Knowledge",
