@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
+                "file": "LLM/Judge/KindJudge.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "What‘s LargeLLM-Tokenization"
+              "title": "KindJudge"
             }
           },
           {
@@ -222,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
+                "file": "LLM/Judge/KindJudge.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "What‘s LargeLLM-Tokenization 的大纲"
+              "title": "KindJudge 的大纲"
             }
           }
         ],
@@ -251,21 +251,21 @@
   },
   "active": "69e165f9b7232ddd",
   "lastOpenFiles": [
+    "LLM/Judge/KindJudge实现笔记.md",
+    "LLM/Judge/KindJudge-Extend.md",
+    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
     "未命名 3.md",
     "LLM/未命名.md",
     "LLM/Code/Code数据增强综述.md",
     "LLM/Code/Code数据增强.md",
     "LLM/Code",
     "Pasted image 20250303214851.png",
-    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
     "审稿意见.md",
     "未命名.md",
     "未命名 1.md",
     "未命名 2.md",
     "LLM/Judge/Adversarial Attacks.md",
-    "LLM/Judge/KindJudge实现笔记.md",
     "LLM/Judge/KindJudge.md",
-    "LLM/Judge/KindJudge-Extend.md",
     "LLM/Judge/Judge Bench.md",
     "LLM/SE/LLM4SE Survey.md",
     "LLM/Knowledge",
