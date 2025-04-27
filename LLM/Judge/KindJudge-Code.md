@@ -1,3 +1,4 @@
+![[Pasted image 20250427162914.png]]
 # 数据集-小型
 
 /home/arily/LargeD/ice-score/data/conala/conala_grade.json
@@ -75,3 +76,5 @@ CodeJudge
 ICE-Score
 
 RewardBench
+
+[JudgeLLM 鲁棒性与偏好](https://chatgpt.com/c/680dd1d2-0dd4-8012-8933-9e17485b0bfc)
