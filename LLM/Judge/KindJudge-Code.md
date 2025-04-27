@@ -1,0 +1,77 @@
+# 数据集-小型
+
+/home/arily/LargeD/ice-score/data/conala/conala_grade.json
+
+这里面就有，
+
+```
+
+        "intent": "send a signal `signal.SIGUSR1` to the current process",
+
+        "snippet": [
+
+            "os.kill(os.getpid(), signal.SIGUSR1)"
+
+        ],
+
+        "baseline": "os.system('<unk>.png',s = 300)",
+
+        "tranx-annot": "sys.signal(`signal.SIGUSR1`)",
+
+        "best-tranx": "os.system(`signal.SIGUSR1`)",
+
+        "best-tranx-rerank": "os.system(`< unk > < unk > < unk >`)",
+
+        "codex": "os.kill(os.getpid(), signal.SIGUSR1)",
+
+        "grade-baseline": 0,
+
+        "grade-tranx-annot": 4,
+
+        "grade-snippet": {
+
+            "grader4": 4,
+
+            "grader8": 4,
+
+            "grader3": 1,
+
+            "grader16": 4
+
+        },
+
+        "grade-best-tranx": 1,
+
+        "grade-best-tranx-rerank": 0,
+
+        "grade-codex": 3,
+
+```
+
+比如这样一个ground truth，snippet不用管，别的就是对应的case和grade（ground truth）。
+
+  
+
+# 数据集·大型
+
+1. /home/arily/LargeD/LLM/JudgeBench/data 里的livebench code
+
+2. CJEval
+
+有关CJEval的标签，看https://yuanbao.tencent.com/chat/naQivTmsDa/f2641cc3-7a82-4c10-b23f-1a4d85f0df2c
+
+# Mutation
+
+/home/arily/LargeD/Tool/Python_refactor/generate_refactoring.py
+
+看这里面就好，已经做好了。
+
+  
+
+# 评估参考
+
+CodeJudge
+
+ICE-Score
+
+RewardBench
