@@ -69,7 +69,7 @@
 
   
 # 攻击策略
-可以考虑用训练模型评估下一步mutation
+可以考虑用训练模型评估下一步mutation（就是RL啦）
 # 评估参考
 
 CodeJudge
