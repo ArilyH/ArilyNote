@@ -82,4 +82,4 @@ RewardBench
 
 # Reward
 目前采用 LLM评估改进作为单一reward
-后面可以可考虑使用目标 LLM
+后面可以可考虑使用目标 LLM做代码摘要 ，评估摘要的perplexity或者语义相似度（对标CodeBLEU）
