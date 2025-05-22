@@ -1,5 +1,6 @@
 ![[Pasted image 20250427162914.png]]
-# 数据集-小型
+# 
+数据集-小型
 
 /home/arily/LargeD/ice-score/data/conala/conala_grade.json
 
