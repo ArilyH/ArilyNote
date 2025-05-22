@@ -1,6 +1,5 @@
 ![[Pasted image 20250427162914.png]]
-# 
-数据集-小型
+# 数据集-小型
 
 /home/arily/LargeD/ice-score/data/conala/conala_grade.json
 
@@ -71,6 +70,7 @@
   
 # 攻击策略
 可以考虑用训练模型评估下一步mutation（就是RL啦）
+可以考虑
 # 评估参考
 
 CodeJudge
