@@ -70,7 +70,6 @@
   
 # 攻击策略
 可以考虑用训练模型评估下一步mutation（就是RL啦）
-可以考虑
 # 评估参考
 
 CodeJudge
@@ -80,3 +79,5 @@ ICE-Score
 RewardBench
 
 [JudgeLLM 鲁棒性与偏好](https://chatgpt.com/c/680dd1d2-0dd4-8012-8933-9e17485b0bfc)
+
+Reward
