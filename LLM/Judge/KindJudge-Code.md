@@ -80,4 +80,6 @@ RewardBench
 
 [JudgeLLM 鲁棒性与偏好](https://chatgpt.com/c/680dd1d2-0dd4-8012-8933-9e17485b0bfc)
 
-Reward
+# Reward
+目前采用 LLM评估改进作为单一reward
+后面可以可考虑使用目标 LLM
