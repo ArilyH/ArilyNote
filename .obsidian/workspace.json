@@ -15,8 +15,17 @@
               "state": {
                 "file": "LLM/Judge/KindJudge-Code.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "KindJudge-Code"
@@ -113,7 +122,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -212,7 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/KindJudge-Code.md"
+                "file": "LLM/Judge/KindJudge-Code.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "KindJudge-Code 的大纲"
