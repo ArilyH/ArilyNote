@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "b2d25ed3316ce783",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "51c20dee8e0a1d53",
             "type": "leaf",
             "state": {
@@ -103,7 +115,8 @@
               "title": "KindJudge-Extend"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e165f9b7232ddd",
+  "active": "b2d25ed3316ce783",
   "lastOpenFiles": [
     "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
     "未命名 3.md",
