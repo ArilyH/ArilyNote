@@ -7,7 +7,8 @@ attack
 
 过 Inference Time Scaling
 qwen2.5C codegemma mistral dscoder ds671b
-数据humaneval livecodebench mbpp
+数据humaneval livecodebench mbpp |MT Bench|
+|--:|
 
 过RL
 
