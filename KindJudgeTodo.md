@@ -1,5 +1,5 @@
 工作流：
-RM rmmistral7B  qwen2.5 sfairRM [ArmoRM-Llama3-8B-v0.1](https://huggingface.co/RLHFlow/ArmoRM-Llama3-8B-v0.1)
+RM rmmistral7B  qwen2.5 [ArmoRM-Llama3-8B-v0.1](https://huggingface.co/RLHFlow/ArmoRM-Llama3-8B-v0.1)   
 RM过JudgeData
 trainAttack
 attack
