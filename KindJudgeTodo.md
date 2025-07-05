@@ -1,5 +1,7 @@
 工作流：
+RM 
 RM过JudgeData
 trainAttack
 attack
-评价前后de'l'tascore
+评价前后Δscore Δavgrank Δspersman
+
