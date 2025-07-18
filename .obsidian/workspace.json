@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KindJudgeTodo.md",
+                "file": "求职准备系列/Todolist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KindJudgeTodo"
+              "title": "Todolist"
             }
           }
         ],
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "KindJudgeTodo.md",
+                "file": "求职准备系列/Todolist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KindJudgeTodo 的大纲"
+              "title": "Todolist 的大纲"
             }
           }
         ],
@@ -300,11 +300,12 @@
   },
   "active": "70fae9b01c802e2d",
   "lastOpenFiles": [
+    "KindJudgeTodo.md",
+    "求职准备系列/Todolist.md",
     "求职准备系列",
     "Markdown简明语法.md",
     "未命名 2.md",
     "未命名 3.md",
-    "KindJudgeTodo.md",
     "未命名 1.md",
     "未命名.md",
     "LLM/SE/LLM4SE Survey.md",
