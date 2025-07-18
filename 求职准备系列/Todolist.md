@@ -10,6 +10,9 @@ AI基础
 
 LLM
 HappyLLM soLargeLM
-技术报告：qwen3 dsr1 v3 minimax
+技术报告：attention qwen3 dsr1 v3 minimax MLA GQA等变体
 大致思考sft rlhf rm
-Transformer手撕 MHA FFN LayerNorm BPE 
+Transformer手撕 MHA FFN LayerNorm BPE Rope SwiGLU
+项目 RL 
+xhsLLM算法题
+
