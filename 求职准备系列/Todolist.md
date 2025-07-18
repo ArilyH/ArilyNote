@@ -1,11 +1,15 @@
 #求职 #Jave #开发 #LLM 
 Git
 
-
+Java
 基本的Java语法、JavaWeb、MySQL、 黑马SpringMVC、SpringBoot、Redis
-八股 小林coding（MySQL 计网） JavaGuide（JavaSE 集合 JUC JVM）
+八股 小林coding&沉默王二（MySQL 计网 消息队列） JavaGuide（JavaSE 集合 JUC JVM）
+面经
 
+AI基础
 
-JavaGuide
-LeetCode
-soLargeLM
+LLM
+HappyLLM soLargeLM
+技术报告：qwen3 dsr1 v3 minimax
+大致思考sft rlhf rm
+Transformer手撕 MHA FFN LayerNorm BPE 
