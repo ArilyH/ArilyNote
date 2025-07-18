@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 2.md",
+                "file": "KindJudgeTodo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "未命名 2"
+              "title": "KindJudgeTodo"
             }
           }
         ],
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 2.md",
+                "file": "KindJudgeTodo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 2 的大纲"
+              "title": "KindJudgeTodo 的大纲"
             }
           }
         ],
@@ -298,14 +298,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "774d5b31d8003a3d",
+  "active": "70fae9b01c802e2d",
   "lastOpenFiles": [
+    "Markdown简明语法.md",
+    "未命名 2.md",
+    "未命名 3.md",
     "KindJudgeTodo.md",
     "未命名 1.md",
     "未命名.md",
     "LLM/SE/LLM4SE Survey.md",
     "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
-    "未命名 3.md",
     "Pasted image 20250427162914.png",
     "LLM/未命名.md",
     "LLM/Judge/KindJudge-Code.md",
@@ -314,7 +316,6 @@
     "LLM/Code",
     "Pasted image 20250303214851.png",
     "审稿意见.md",
-    "未命名 2.md",
     "LLM/Judge/Adversarial Attacks.md",
     "LLM/Judge/KindJudge实现笔记.md",
     "LLM/Judge/KindJudge.md",
@@ -332,7 +333,6 @@
     "LLM/Judge/未命名.md",
     "LLM/Judge/RLHF.md",
     "LLM/SE",
-    "Markdown简明语法.md",
     "conflict-files-obsidian-git.md",
     "RLHF.md",
     "Key1.md",
