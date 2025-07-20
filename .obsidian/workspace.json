@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "求职准备系列/Todolist.md",
+                "file": "LLM/KindJudge/workflow res.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todolist"
+              "title": "workflow res"
             }
           }
         ],
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "求职准备系列/Todolist.md",
+                "file": "LLM/KindJudge/workflow res.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Todolist 的大纲"
+              "title": "workflow res 的大纲"
             }
           }
         ],
@@ -300,16 +300,20 @@
   },
   "active": "70fae9b01c802e2d",
   "lastOpenFiles": [
-    "KindJudgeTodo.md",
+    "LLM/KindJudge/res.md",
+    "LLM/KindJudge/workflow res.md",
+    "未命名.md",
+    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
+    "LLM/KindJudge",
+    "未命名",
+    "LLM/KindJudge/KindJudgeTodo.md",
     "求职准备系列/Todolist.md",
     "求职准备系列",
     "Markdown简明语法.md",
     "未命名 2.md",
     "未命名 3.md",
     "未命名 1.md",
-    "未命名.md",
     "LLM/SE/LLM4SE Survey.md",
-    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
     "Pasted image 20250427162914.png",
     "LLM/未命名.md",
     "LLM/Judge/KindJudge-Code.md",
@@ -338,8 +342,6 @@
     "conflict-files-obsidian-git.md",
     "RLHF.md",
     "Key1.md",
-    "Judge Bench^Key1.md",
-    "[GitHub.md",
     "LLM/Judge/JPG",
     "LLM/CodeLLM",
     "LLM/Judge",
