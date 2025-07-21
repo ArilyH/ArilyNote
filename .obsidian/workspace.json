@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/KindJudge/KindJudgeTodo.md",
+                "file": "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KindJudgeTodo"
+              "title": "What‘s LargeLLM-Tokenization"
             }
           },
           {
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/KindJudge/KindJudgeTodo.md",
+                "file": "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KindJudgeTodo 的大纲"
+              "title": "What‘s LargeLLM-Tokenization 的大纲"
             }
           }
         ],
@@ -276,6 +276,7 @@
   },
   "active": "138bcc213c86acc9",
   "lastOpenFiles": [
+    "LLM/KindJudge/KindJudgeTodo.md",
     "LLM/KindJudge/res.md",
     "LLM/KindJudge/workflow res.md",
     "Markdown简明语法.md",
@@ -287,7 +288,6 @@
     "conflict-files-obsidian-git.md",
     "求职准备系列/Todolist.md",
     "求职准备系列",
-    "LLM/KindJudge/KindJudgeTodo.md",
     "LLM/KindJudge",
     "Pasted image 20250427162914.png",
     "LLM/Judge/KindJudge.md",
