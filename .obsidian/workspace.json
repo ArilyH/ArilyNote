@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLM/Judge/KindJudge实现笔记.md",
+                "file": "LLM/KindJudge/KindJudgeTodo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KindJudge实现笔记"
+              "title": "KindJudgeTodo"
             }
           },
           {
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLM/Judge/KindJudge实现笔记.md",
+                "file": "LLM/KindJudge/KindJudgeTodo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KindJudge实现笔记 的大纲"
+              "title": "KindJudgeTodo 的大纲"
             }
           }
         ],
@@ -276,29 +276,30 @@
   },
   "active": "138bcc213c86acc9",
   "lastOpenFiles": [
+    "LLM/KindJudge/res.md",
+    "LLM/KindJudge/workflow res.md",
+    "Markdown简明语法.md",
+    "未命名 2.md",
+    "审稿意见.md",
+    "LLM/未命名.md",
+    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
+    "LLM/Judge/KindJudge实现笔记.md",
     "conflict-files-obsidian-git.md",
     "求职准备系列/Todolist.md",
     "求职准备系列",
-    "LLM/KindJudge/res.md",
-    "LLM/KindJudge/workflow res.md",
     "LLM/KindJudge/KindJudgeTodo.md",
     "LLM/KindJudge",
     "Pasted image 20250427162914.png",
     "LLM/Judge/KindJudge.md",
     "LLM/Judge/KindJudge-Extend.md",
     "LLM/Judge/KindJudge-Code.md",
-    "LLM/Judge/KindJudge实现笔记.md",
-    "LLM/Knowledge/What‘s LargeLLM-Tokenization.md",
     "未命名 3.md",
-    "LLM/未命名.md",
     "LLM/Code/Code数据增强综述.md",
     "LLM/Code/Code数据增强.md",
     "LLM/Code",
     "Pasted image 20250303214851.png",
-    "审稿意见.md",
     "未命名.md",
     "未命名 1.md",
-    "未命名 2.md",
     "LLM/Judge/Adversarial Attacks.md",
     "LLM/Judge/Judge Bench.md",
     "LLM/SE/LLM4SE Survey.md",
@@ -314,7 +315,6 @@
     "LLM/Judge/未命名.md",
     "LLM/Judge/RLHF.md",
     "LLM/SE",
-    "Markdown简明语法.md",
     "RLHF.md",
     "Key1.md",
     "LLM/Judge/JPG",
