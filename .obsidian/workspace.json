@@ -185,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 315.5
   },
   "right": {
     "id": "a5dadfda69a4dfed",
@@ -274,7 +274,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "138bcc213c86acc9",
+  "active": "774d5b31d8003a3d",
   "lastOpenFiles": [
     "LLM/KindJudge/KindJudgeTodo.md",
     "LLM/KindJudge/res.md",
